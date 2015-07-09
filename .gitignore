@@ -10,6 +10,7 @@ test
 data/
 HOST/
 misc/
+pcgroup.cfg
 html/*.html
 html/misc/
 html/top/
